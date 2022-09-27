@@ -1,0 +1,2 @@
+$removeparam=k
+$removeparam=v
